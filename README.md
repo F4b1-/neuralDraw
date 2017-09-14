@@ -23,6 +23,6 @@ The weights for the network are provided in the _weights_who.npy_ and _weights_w
 To-Do
 ------
 - [ ] Make the training data file location editable in the gui
-- [ ] Improve the process of saving, cropping and analyzing the canvas
+- [ ] Improve the process of saving, cropping and analyzing the drawing area
 - [ ] Create a setup.py file
 
